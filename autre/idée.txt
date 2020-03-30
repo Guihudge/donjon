@@ -1,0 +1,6 @@
+système xp : (chaque lvl +5% chaque stat)
+ne pas pouvoir revenir sur la case précédente.
+map plus grande avec salle vide et innutile
++ d'objet
+ne pas pouvoir recombattre les ennemis déjà battus 
+pourquoi pas un peu de random 

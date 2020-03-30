@@ -1,0 +1,44 @@
+pv_joueur_max = 100
+pv_joueur = pv_joueur_max
+attack_joueur = 20
+
+attack_joueur_spc = 30
+cout_attack_spc = 15
+point_attack_spc_max = 20
+point_attack_spc = point_attack_spc_max
+
+point_magie_max = 30
+point_magie = point_magie_max
+
+cout_soin = 10
+pv_soin = 40
+cout_boule_feu = 20
+attaque_boule_feu = 35
+
+pv_ennemy_max=50
+pv_ennemy = pv_ennemy_max
+attack_ennemy = 10
+
+dictionnaire joueur:
+    pv
+    attaque
+    attaque spé
+    cout attaque spé
+    point attaque spé
+    point magi
+    cout soin
+    pv_soin
+    cout boulle de feu
+    attaque boule de feu
+
+dictionnaire enemie
+    pv enemie
+    attque ennemy
+
+dictinnaire init
+    pv max joueur
+    pv enemie max
+    point magi max
+    point attaque spé max
+
+

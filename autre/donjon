@@ -1,0 +1,37 @@
++--------------+--------------+--------------+
+|  x=0         | x=1          | x=2          |
+|  y=0         | y=0          | y=0          |
+|             <-             <-              |
+|      1       |       2      |       3      |
+|              |              |       ^      |
++--------------+--------------+-------|------+
+|  x=0         | x=1          | x=2          |
+|  y=1         | y=1          | y=1          |
+|             <-              ->             |
+|       4      |      5       |       6      |
+|              |              |       ^      |
++-------|------+--------------+-------|------+
+| x=0   v      | x=1          | x=2          |
+| y=2          | y=2          | y=2          |
+|              ->             ->             |
+|              |              |              |
+|       7      |       8      |       9      |
++--------------+--------------+--------------+
+  N
+O + E
+  S
+
+
+1) Salle du Boss  (un chat blanc 150PV, 20 attaque)
+2) Salle du prés bosse (groupe de chat marron 40PV, 10 Attaque)
+3) Salle des coffre, 2 au choix: - Bonus +50PV
+                                 - Malus -5 attaque_spe
+4) Combat, gobelin (2 combat gobelin vert : 30 PV, 15 Attaque)
+5) Spawn synopsis
+6) Banquet : restore tout les point de magie et PV
+7) SAlle dans le noire trois possibilité: -Bonus +15 HP
+                                          - Rien
+                                          - Malus -25 HP
+8)
+9) Combat/bonus Dragon: 2 choix:  - combat (dragon bleu, PV: 500, attaque 40)
+                                  - Bonus  (+10 attaque)
